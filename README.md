@@ -4,15 +4,7 @@
 
 > Classifying handwritten digits (0–9) from the MNIST dataset using a fully connected Artificial Neural Network built with TensorFlow/Keras.
 
-**Author:** Kushagra Raghuvanshi  
-
-**Registration Number:** 23BSA10072
-
-**Application Number:** IN26011064
-
 **Batch Number:** 2B
-
-**Email ID:** kushagra.23bsa10072@vitbhopal.ac.in 
 
 
 
